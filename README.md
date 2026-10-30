@@ -42,7 +42,6 @@ dotnet build
 
 ## Example queries
 
-![LINQ query examples](https://raw.githubusercontent.com/1x4x/7-linq/6560a0588d8f563628fce7336df599b7a988b32f/linq/docs/screenshots/linq-examples.svg)
 
 ```csharp
 // Students older than 20

@@ -2,7 +2,8 @@
 
 A small .NET 9 console application that demonstrates common Language Integrated Query (LINQ) operations over a list of students. The sample is written in Swedish to match the model properties and console headings.
 
-![Console output preview](docs/screenshots/console-output.svg)
+![Console output preview](https://raw.githubusercontent.com/1x4x/7-linq/6560a0588d8f563628fce7336df599b7a988b32f/linq/docs/screenshots/linq-examples.svg)
+
 
 ## What is included?
 
@@ -41,7 +42,7 @@ dotnet build
 
 ## Example queries
 
-![LINQ query examples](docs/screenshots/linq-examples.svg)
+![LINQ query examples]([docs/screenshots/linq-examples.svg](https://raw.githubusercontent.com/1x4x/7-linq/6560a0588d8f563628fce7336df599b7a988b32f/linq/docs/screenshots/linq-examples.svg)
 
 ```csharp
 // Students older than 20

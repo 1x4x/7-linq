@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="420" viewBox="0 0 900 420" role="img" aria-labelledby="title desc">
+  <title id="title">LINQ query examples</title>
+  <desc id="desc">A code-editor-style preview of Where, OrderByDescending, and GroupBy queries.</desc>
+  <rect width="900" height="420" rx="14" fill="#0d1117"/>
+  <rect width="900" height="42" rx="14" fill="#21262d"/>
+  <circle cx="24" cy="21" r="7" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="7" fill="#ffbd2e"/>
+  <circle cx="72" cy="21" r="7" fill="#27c93f"/>
+  <text x="450" y="27" text-anchor="middle" fill="#8b949e" font-family="Arial, sans-serif" font-size="14">Program.cs</text>
+  <g font-family="Consolas, 'Courier New', monospace" font-size="17">
+    <g fill="#6e7681" text-anchor="end">
+      <text x="50" y="82">1</text><text x="50" y="112">2</text><text x="50" y="142">3</text><text x="50" y="172">4</text><text x="50" y="202">5</text><text x="50" y="232">6</text><text x="50" y="262">7</text><text x="50" y="292">8</text><text x="50" y="322">9</text><text x="50" y="352">10</text>
+    </g>
+    <g fill="#d2a8ff">
+      <text x="74" y="82">var olderStudents = list.Where(student =&gt; student.Alder &gt; 20);</text>
+      <text x="74" y="142">var topStudents = list</text>
+      <text x="74" y="172">    .OrderByDescending(student =&gt; student.Poang)</text>
+      <text x="74" y="202">    .Take(2);</text>
+      <text x="74" y="262">var studentsByClass = list.GroupBy(student =&gt; student.Klass);</text>
+    </g>
+    <g fill="#8b949e">
+      <text x="74" y="112">// Filter by age</text>
+      <text x="74" y="232">// Group and limit results</text>
+      <text x="74" y="292">// Group students by class</text>
+    </g>
+  </g>
+</svg>

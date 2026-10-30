@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="560" viewBox="0 0 900 560" role="img" aria-labelledby="title desc">
+  <title id="title">LINQ console output</title>
+  <desc id="desc">A terminal-style preview showing LINQ student query output.</desc>
+  <rect width="900" height="560" rx="14" fill="#161b22"/>
+  <rect width="900" height="42" rx="14" fill="#242b35"/>
+  <circle cx="24" cy="21" r="7" fill="#ff5f56"/>
+  <circle cx="48" cy="21" r="7" fill="#ffbd2e"/>
+  <circle cx="72" cy="21" r="7" fill="#27c93f"/>
+  <text x="450" y="27" text-anchor="middle" fill="#aab4c3" font-family="Arial, sans-serif" font-size="14">dotnet run</text>
+  <g fill="#d7dee8" font-family="Consolas, 'Courier New', monospace" font-size="17">
+    <text x="28" y="78" fill="#7ee787">LINQ student examples</text>
+    <text x="28" y="112" fill="#79c0ff">Where</text>
+    <text x="28" y="138">Id: 2, Namn: Bertil, Ålder: 22, Klass: B, Poäng: 72</text>
+    <text x="28" y="164">Id: 4, Namn: David, Ålder: 24, Klass: C, Poäng: 64</text>
+    <text x="28" y="190" fill="#79c0ff">Select</text>
+    <text x="28" y="216">Anna</text>
+    <text x="28" y="242">Bertil</text>
+    <text x="28" y="268">Cecilia</text>
+    <text x="28" y="294" fill="#79c0ff">Count</text>
+    <text x="28" y="320">8</text>
+    <text x="28" y="346" fill="#79c0ff">Any / All</text>
+    <text x="28" y="372">False</text>
+    <text x="28" y="398">True</text>
+    <text x="28" y="424" fill="#79c0ff">Sum / Average / Min / Max</text>
+    <text x="28" y="450">Sum of points: 627, Average points: 78.375, Min points: 58, Max points: 95</text>
+    <text x="28" y="500" fill="#7ee787">Process exited with code 0</text>
+  </g>
+</svg>

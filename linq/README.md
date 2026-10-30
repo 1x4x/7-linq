@@ -69,4 +69,4 @@ Each query is evaluated against the same in-memory list, making the project usef
 
 ## License
 
-This project is provided for learning and demonstration purposes.
+This project is provided for learning and demonstration purposes. Fjonke 
